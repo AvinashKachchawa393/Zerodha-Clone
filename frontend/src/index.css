@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav-link{
+  margin-left: 40px;;
+}
+#support-hero{
+  background-color: rgb(56,126,209);
+  color: white;
+}
+#support-hero a{
+  color: white;
+  text-decoration: underline;
+}
+#support-wrapper{
+  display: flex;
+  justify-content: space-between;
+  margin-inline:150px;
+}
+#support-hero input{
+  padding: 20px 50px;
+  font-size: 12px;
+  width: 100%;
+  border:none;
+  border-radius: 10px;
+}
+#support-link a{
+  margin-left: 1.2rem;;
+}
+.flex{
+  display: flex;
+}
